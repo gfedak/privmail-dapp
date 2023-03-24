@@ -1,0 +1,8 @@
+{
+    "email": "example@gmail.com",
+    "smtp_server":  "smtp.gmail.com",
+    "smtp_port": 587,
+    "smtp_passwd": "",
+    "gpg_pubkey": "-----BEGIN PGP PUBLIC KEY BLOCK-----\n           \n-----END PGP PUBLIC KEY BLOCK-----\n"
+
+}
